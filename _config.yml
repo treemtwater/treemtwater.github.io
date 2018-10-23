@@ -1,35 +1,53 @@
-title: Your Title
+title: The Moim (더모임 나를 만나는 공간) 
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "treemtwater.github.io" # the base hostname & protocol for your site
+  '더모임 나를 만나는 공간' 은 그림심리, 음악심리, 컬러테라피, 적성검사를 통해서 나를 찾아가는 컨설팅 테마 카페입니다.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "treemtwater.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+blog_theme: light # Or use dark
+
+# Profile information
+name: The Moim 
+tagline: '더모임 나를 만나는 공간' 
+about-description: > # Add Discription
+  '더모임 나를 만나는 공간'은 그림심리, 음악심리, 컬러테라피, 적성검사를 통해서 <br>
+  나를 찾아가는 컨설팅 테마 카페입니다. <br>
+  자세한 사항은 Blog 를 확인하세요 :)
+pic: the_moim.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+
+# Contact links
+email: grape_song2@naver.com # Add your Email address
+phone: 010-4662-8710 # Add your Phone number
+website: treemtwater.github.io # Add your website, do not add http://
+#linkedin: # Add your Linkedin handle
+#github: treemtwater # Add your Github handle
+#twitter: '@artemsheludko_' # Add your Twitter handle
+
+# Tracker
+analytics:
+
+# Comments
+discus-identifier: # Add your Disqus identifier
+
+# Important settings
+assets:
+  sources:
+    - assets/fonts
+    - assets/img
+    - assets/js
+    - assets/stylesheets
+
 # Build settings
-markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 
-facebook:
-  app_id: 
+gems:
+  - jekyll-feed
+  - jekyll-assets
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
-logo: "../css/2016_style/img/icon-large.png"
-
-social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
-
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
-
-include: ['_2016_pages', '_2017_pages']
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: facebook
-    url: https://www.facebook.com
-  - title: twitter
-    url: https://twitter.com
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+include: [_pages]
