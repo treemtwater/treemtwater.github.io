@@ -1,0 +1,59 @@
+---
+title: About 
+layout: about 
+permalink: /about/
+---
+
+<div class="page-heading">
+  <h2 class="page-title">"The Moim" ?<a class="rss-subscribe" href="{{ "/feed.xml" | relative_url }}"><i class="fa fa-rss" aria-hidden="true"></i></a></h2>
+</div>
+
+<div class="post-box">
+  <img rel="moim" src="../assets/img/main.jpg" style="max-width: 70%; height:auto;" >
+  <br>
+  <h1> What is "The Moim" ?</h1>
+  <p> '더모임 나를 만나는 공간'은 그림심리, 음악심리, 컬러테라피, 적성검사를 통해서 나를 찾아가는 컨설팅 테마 카페입니다. </p>
+  <p> 'The Moim, finding myself' is a consulting theme cafe providing drawing, music, color therapy and aptitude test. </p>
+
+  <h1> Where is it? </h1>
+  <p> 강남대로160-2 2층 the Moim (양재역 8번출구 도보 5분) </p>
+  <p> 2nd Floor, 160-2, Gangnam-daero, Seocho-gu <br> 
+  (five-minute walk from exit 8 at Yangae Station on line 3) </p>
+  <img rel="location" src="../assets/img/location.png" style="max-width: 70%; height:auto;">
+  <br>
+  <br>
+  <h1> How to Make a Reservation? </h1>
+  <p> 예정 방문일로부터 하루 전에 연락 바랍니다. </p>
+  <p><b> 김송이 010-4662-8710</b> </p>
+  <p> Please Give us a call day before you are going to visit </p>
+  <p><b> Songee Kim +082)010-4662-8710</b> </p>
+
+<!--
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post-item">
+
+        <h2 class="post-header">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }} <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+        </h2>
+        <p class="post-description">{{ post.description }}</p>
+        <div class="article-list-footer">
+          <span class="article-list-date divider">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </span>
+          <span class="article-list-minutes">
+            {% capture words %}
+              {{ post.content | number_of_words }}
+            {% endcapture %}
+            {% unless words contains "-" %}
+              {{ words | plus: 250 | divided_by: 250 | append: " minute read" }}
+            {% endunless %}
+          </span>
+        </div>
+
+      </li>
+    {% endfor %}
+  </ul>
+-->
+
+</div>
