@@ -8,7 +8,7 @@
 /* Document
    ========================================================================== */
 html {
-  font-family: sans-serif;
+  font-family: 'NanumSquare', sans-serif;
   /* 1 */
   line-height: 1.15;
   /* 2 */
@@ -416,7 +416,7 @@ html {
   line-height: 1.5; }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'NanumSquare', 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   background: #f3f3f3;
   color: #323232; }
