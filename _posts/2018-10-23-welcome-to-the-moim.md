@@ -1,28 +1,35 @@
 ---
 layout: post
-title:  "The Moin 시설"
-description: 시설 정보
+title:  "The Moin 시설 및 오픈 이벤트"
+description: 시설 및 오픈이벤트 정보
 img: hallway.jpg 
 date: 2018-10-23 14:55:52 +0200
 categories: jekyll update
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## < 오픈 이벤트! >
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+더 모임 나를 만나는 공간 <br>
+<br>
+<b> 1인 방문시 80% 할인권</b> <br>
+<br>
+<br>
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+| 옵션 | 가격 |
+| ---- | ---- |
+| 성격분석+아메리카노 set | 20,000원->4,000원 |
+| 그림심리+아메리카노 set | 20,000원->4,000원 |
+| 컬러테라피+아메리카노 set | 20,000원->4,000원 |
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<br>
+- 행사기간: 2018.10.24~2018.11.30
+- 현금결제시 할인적용
+- 예정 방문일로부터 최소 1일전 전화예약 바랍니다.
+<br>
+<br>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### 연락처
+김송이 010-4662-8710 <br>
+themoim201@naver.com
+
