@@ -9,13 +9,7 @@ categories: jekyll update
 
 ## < 오픈 이벤트! >
 
-더 모임 나를 만나는 공간 <br>
-<br>
-<b> 1인 방문시 80% 할인권</b> <br>
-<br>
-<br>
 <img rel="location" src="../assets/img/coupon1.jpg" style="max-width: 80%; height:auto;">
-<img rel="location" src="../assets/img/coupon2.jpg" style="max-width: 80%; height:auto;">
 
 <br>
 <br>
