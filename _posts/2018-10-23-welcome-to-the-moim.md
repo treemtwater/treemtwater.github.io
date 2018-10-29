@@ -14,7 +14,11 @@ categories: jekyll update
 <b> 1인 방문시 80% 할인권</b> <br>
 <br>
 <br>
+<img rel="location" src="../assets/img/coupon1.jpg" style="max-width: 80%; height:auto;">
+<img rel="location" src="../assets/img/coupon2.jpg" style="max-width: 80%; height:auto;">
 
+<br>
+<br>
 
 | 옵션 | 가격 |
 | ---- | ---- |
