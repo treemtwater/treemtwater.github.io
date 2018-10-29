@@ -9,10 +9,9 @@ categories: jekyll update
 
 ## < 오픈 이벤트! >
 
-<img rel="location" src="../assets/img/coupon1.jpg" style="max-width: 80%; height:auto;">
+<br>
 
-<br>
-<br>
+<img rel="location" src="../assets/img/coupon1.jpg" style="max-width: 80%; height:auto;">
 
 | 옵션 | 가격 |
 | ---- | ---- |
